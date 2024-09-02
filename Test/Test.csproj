@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DH.NAgent" Version="3.7.2024.828-beta0236" />
+    <PackageReference Include="DH.NAgent" Version="3.7.2024.902-beta0141" />
   </ItemGroup>
 
   <ItemGroup>
